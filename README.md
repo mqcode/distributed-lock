@@ -29,7 +29,7 @@
 ![avatar](./README/lock03.png)
 
 ###  代码地址
-https://github.com/mqcode/java-proxy.git
+https://github.com/mqcode/distributed-lock.git
 ## 构建步骤
 ### 新建maven项目,引入以下依赖
 
